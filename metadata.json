@@ -1,0 +1,6 @@
+{
+  "name": "Tiệm Gà Họ Dương",
+  "description": "Website giới thiệu các chatbot roleplay siêu đáng yêu của Tiệm Gà Họ Dương, với phong cách quán ăn nhỏ ấm cúng, bộ lọc tìm kiếm và lưu yêu thích.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
